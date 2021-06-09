@@ -13,10 +13,13 @@
 
     <tbody>
       <% @posts.each do |post| %>
-        <tr>
-          <td><%= post[:body] %></td>
-        </tr>
-        <%= post.user.name %>
+       <%= post.user.name %>
+       <br>
+         <%= post[:body] %>
+         <br>
+        
+        
+        
       <% end %>
     </tbody>
   </table>
