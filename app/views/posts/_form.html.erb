@@ -10,7 +10,11 @@
       </ul>
     </div>
   <% end %>
-
+  
+  <div class="field">
+    
+    <%= form.text_area :body, autofocus: true, autocomplete: "body" %>
+  </div>
   <div class="actions">
     <%= form.submit %>
   </div>
