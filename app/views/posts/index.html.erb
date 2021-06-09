@@ -29,7 +29,8 @@
 <%= link_to 'New Post', new_post_path %>
 
 <% else %>
-  <%= link_to 'Sign in',  user_session_path  %>  
-  <%= link_to 'Sign up',  new_user_registration_path  %>  
+   <% @posts.each do |post| %>
+       <%= post.body %><br>
+    <% end %>
 <% end %>
 </div>
