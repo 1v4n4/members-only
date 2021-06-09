@@ -37,8 +37,11 @@
 - Twitter: [@MoisesH42060050](https://twitter.com/MoisesH42060050) 
 - LinkedIn: [Moises Hernandez Coronado](https://www.linkedin.com/in/moises-hernandez-9bbb17145/)
 
-👤 **Ivana**
+👤 **Ivana Novaković-Leković** 
 
+- GitHub: [@githubhandle](https://github.com/1v4n4)
+- Twitter: [@twitterhandle](https://twitter.com/codeIv1)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/1v4n4/)
 
 
 ## 🤝 Contributing
