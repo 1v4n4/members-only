@@ -1,5 +1,4 @@
 <% if user_signed_in? %>
-
   <p id="notice"><%= notice %></p>
 
   <h1>Posts</h1>
@@ -15,8 +14,8 @@
       <% @posts.each do |post| %>
         <tr>
           <td><%= post[:body] %></td>
-          
         </tr>
+        <%= post.user.name %>
       <% end %>
     </tbody>
   </table>
